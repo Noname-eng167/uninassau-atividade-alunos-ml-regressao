@@ -30,7 +30,7 @@ Cada etapa tem:
 
 | Semana | Etapa | Entregáveis | Apresentação |
 |:------:|-------|-------------|:------------:|
-| **1** | [📊 EDA - Análise Exploratória](#-etapa-1-eda) | `notebooks/01_EDA.ipynb` | ❌ Não |
+| **1** | [📊 EDA - Análise Exploratória](#-etapa-1-eda) | `notebooks/01_EDA.ipynb` | ✅ Sim |
 | **2** | [🔧 Pré-processamento](#-etapa-2-pré-processamento) | Notebook + Dataset limpo | ✅ 10 min |
 | **3** | [🤖 Modelagem](#-etapa-3-modelagem) | `notebooks/03_Modelagem.ipynb` | ✅ 15 min |
 | **4** | [⚡ Otimização](#-etapa-4-otimização) | Notebook + Modelo final | ✅ 15 min |
