@@ -1,7 +1,7 @@
 # Relatório Final - Projeto de Machine Learning
 
 **Aluno(a):** [Seu Nome Completo]
-**Disciplina:** Introdução à Machine Learning - 2025.1
+**Disciplina:** Introdução à Machine Learning - 2025.2
 **Professor:** Professor Durval
 **Data:** [DD/MM/AAAA]
 **Repositório:** [Link para o repositório]
