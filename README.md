@@ -9,9 +9,13 @@
 **Membros do Grupo:**
 
 Emmanuel Silva Do Nascimento Junior - 01678857
+
 Pedro Henrique de Arruda Silva - 01674701
+
 Anderson Henrique Garcia Gomes - 01683140
+
 Maria Rita de Oliveira Ramos - 01726989
+
 Luís Henrique da Silva Mota - 01722899
 
 ---
